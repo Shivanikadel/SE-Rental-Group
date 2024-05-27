@@ -72,5 +72,7 @@ This tutorial primarily illustrates how to run the application on Windows CLI.
 2. Navigate to the unzipped application folder using the command:
    ```sh
    cd <folder name>
-
-python3 mrs.py
+3. Inside the folder, you will see a list of all files that our application uses.
+4. Run the following command to start the application   
+  ```sh
+   python3 mrs.py
