@@ -1,0 +1,3 @@
+tenant@student.monash.edu;;;Monash1234
+skad0009@student.monash.edu;;;Shivani1234
+namr0002@student.monash.edu;;;Namrata1234

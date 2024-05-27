@@ -1,0 +1,1 @@
+tenant@student.monash.edu;;;46 Berkeley Street;;;casual;;;Pending;;;;;;15;;;y;;;y;;;tenant@student.monash.edu;;;5/1250 Centre Road;;;casual;;;Pending;;;12;;;y;;;y;;;tenant@student.monash.edu;;;1/5 Gordon Avenue;;;casual;;;Pending;;;34;;;y;;;y;;;tenant@student.monash.edu;;;1689 Dandenong Road;;;cas;;;Pending;;;45;;;y;;;y;;;
